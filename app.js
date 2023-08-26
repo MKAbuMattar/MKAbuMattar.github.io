@@ -1,3 +1,3 @@
-;(() => {
-  location.replace('https://www.mkabumattar.tech/')
-})()
+(() => {
+  location.replace('https://www.mkabumattar.com/');
+})();
